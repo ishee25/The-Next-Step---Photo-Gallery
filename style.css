@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+   margin-top:20px;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+img{
+    height: 450px;
+    width:500px;
+}
+.img-responsive{
+    height:400px;
+    width:800px;
+}
+.carousel-indicators{
+    color:black;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Cinzel Decorative', cursive;
+}
